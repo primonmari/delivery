@@ -26,15 +26,16 @@ Este é um aplicativo de layout profissional para delivery, desenvolvido com **R
 <table align="center">
   <tr>
     <td>
-      <img src="./assets/videos/video.mp4" width="300" height="600" />
+      <img src="./assets/videos/video.gif" width="300" height="600" />
     </td>
   </tr>
 </table>
+
 ## 🏗️ **Como Rodar**
 
 1. **Clone o repositório**  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/primonmari/delivery.git
    cd seu-repositorio
    npx expo start
 

@@ -21,7 +21,15 @@ Este é um aplicativo de layout profissional para delivery, desenvolvido com **R
 - **Axios**
 
 ---
+## 🖌️ Estilo Visual
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="./assets/videos/video.mp4" width="300" height="600" />
+    </td>
+  </tr>
+</table>
 ## 🏗️ **Como Rodar**
 
 1. **Clone o repositório**  

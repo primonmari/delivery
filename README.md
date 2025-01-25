@@ -36,10 +36,10 @@ Este é um aplicativo de layout profissional para delivery, desenvolvido com **R
 1. **Clone o repositório**  
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/primonmari/delivery.git
-   cd seu-repositorio
+   cd delivery
    npx expo start
 
 2. **Consumindo a Api fake**  
    ```bash
-   cd seu-repositorio
+   cd delivery
    npx json-server db.json //importante verificar seu IP, no arquivo restaurants

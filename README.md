@@ -30,6 +30,7 @@ Este é um aplicativo de layout profissional para delivery, desenvolvido com **R
     </td>
   </tr>
 </table>
+
 ## 🏗️ **Como Rodar**
 
 1. **Clone o repositório**  

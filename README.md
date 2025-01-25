@@ -1,6 +1,6 @@
 # 📱 **App Delivery**
 
-Este é um aplicativo de layout profissional para delivery, desenvolvido com **React Native**, **TypeScript** e **TailwindCSS**. O app consome uma API fake utilizando **JSON Server**..
+Este é um aplicativo de layout profissional para delivery, desenvolvido com **React Native**, **TypeScript** e **TailwindCSS**. O app consome uma API fake utilizando **JSON Server**.
 
 ---
 

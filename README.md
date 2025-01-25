@@ -35,7 +35,7 @@ Este é um aplicativo de layout profissional para delivery, desenvolvido com **R
 
 1. **Clone o repositório**  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/primonmari/delivery.git
+   git clone https://github.com/primonmari/delivery.git
    cd delivery
    npx expo start
 
